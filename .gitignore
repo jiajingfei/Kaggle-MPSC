@@ -1,0 +1,13 @@
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
+./notebook/*
+/data/*
+*.csv
+*.tsv
+*.tfevents
+*.pyc
+*~
+/code/debug/*
+*.pickle
